@@ -18,4 +18,5 @@ During six months, we learned :
 5. to develop the features in C language ;
 6. to test and to fix the code.
 
-We are happy to share with the community our work and we hope you'll have as much fun we had.
+
+__We are happy to share with the community our work and we hope you'll have as much fun we had.__
