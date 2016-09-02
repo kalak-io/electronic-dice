@@ -1,2 +1,4 @@
-# electronic-dice
-Electronic Project in 42 school with MDEKEN / DBISCHOF / CJACQUEM
+# D++
+
+This is the electronic Project in 42 school made by @madeka / @dbischof / @kalak-io
+
