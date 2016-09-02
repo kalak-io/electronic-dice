@@ -22,5 +22,5 @@ During six months, we learned :
 ![Schematic](https://github.com/kalak-io/electronic-dice/blob/master/img/display.PNG)
 ![Schematics display](https://github.com/kalak-io/electronic-dice/blob/master/img/display.PNG)
 ![pcb](https://github.com/kalak-io/electronic-dice/blob/master/img/pcb.PNG)
-
+ 
 __We are happy to share with the community our work and we hope you'll have as much fun we had.__
