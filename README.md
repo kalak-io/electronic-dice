@@ -12,6 +12,7 @@ Great players we are, we love discovering new games. Most games require at least
 - Chronometer
 
 During six months, we learned :
+
 1. to choose the right components ;
 2. to draw the schematics ;
 3. to design our own printed circuit board ;
@@ -19,7 +20,8 @@ During six months, we learned :
 5. to develop the features in C language ;
 6. to test and to fix the code.
 
-![Schematic](https://github.com/kalak-io/electronic-dice/blob/master/img/display.PNG)
+
+![Schematic](https://github.com/kalak-io/electronic-dice/blob/master/img/schematic-pic.PNG)
 ![Schematics display](https://github.com/kalak-io/electronic-dice/blob/master/img/display.PNG)
 ![pcb](https://github.com/kalak-io/electronic-dice/blob/master/img/pcb.PNG)
  
