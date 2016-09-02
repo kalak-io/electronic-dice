@@ -14,6 +14,7 @@ Great players we are, we love discovering new games. Most games require at least
 During six months, we learned :
 1. to choose the right components ;
 2. to draw the schematics ;
+![Schematic](https://github.com/kalak-io/electronic-dice/blob/master/img/display.PNG)
 3. to design our own printed circuit board ;
 4. to solder the components ;
 5. to develop the features in C language ;
